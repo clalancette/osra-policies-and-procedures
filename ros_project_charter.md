@@ -126,7 +126,11 @@ All definitions provided in the Charter of the Open Source Robotics Alliance als
 
    1. altering a end-of-life date for a release of the Project;
 
-   1. confirming a PMC Member for the position of ROS Boss; and
+   1. confirming a PMC Member for the position of ROS Boss;
+
+   1. declaring a PMC Member dormant, in accordance with ARTICLE 6.6;
+
+   1. removing a PMC Member, in accordance with ARTICLE 6.6 or ARTICLE 6.7; and
 
    1. recommending a course of action to the TGC.
 
@@ -197,6 +201,51 @@ All definitions provided in the Charter of the Open Source Robotics Alliance als
 1. With the exception of the Supporting Individual Representative, there shall be no requirement to be a Supporting Individual Member of the OSRA to become a PMC Member.
 
 1. PMC Members shall bear their own costs and expenses for their participation in Project activities, meetings, travel, employee compensation, and incidental expenses.
+
+1. A PMC Member may resign their status as PMC Member at any time by notifying the Project Leader in writing (including by e-mail).
+   No decision of the Project Management Committee is required.
+
+   1. The resignation shall take effect on the date of the notice, or on a later date specified in the notice.
+
+   1. In the notice, the PMC Member may state whether they wish to remain a Committer of the Project.
+      If they do not so state, they shall also cease to be a Committer.
+
+   1. The Project Leader shall inform the Project Management Committee and the TGC of the resignation.
+
+1. A PMC Member shall be considered inactive if, for a period of six (6) consecutive calendar months, they have not attended any meeting of the Project Management Committee, participated in any formal decision, or made any contribution (including commits, code reviews, and issue triage) to a repository of the Project.
+   The following process applies to an inactive PMC Member.
+
+   1. The Project Leader shall send a written warning to the PMC Member stating that they are inactive, and that to retain their status they must attend a meeting of the Project Management Committee or participate in a formal decision within thirty (30) days of the warning.
+
+   1. If the PMC Member does not take such action within that period, the Project Management Committee may, by formal decision, declare the PMC Member dormant from a stated start date.
+
+   1. While dormant, the PMC Member shall have all access rights to the repositories of the Project and the Project Support Infrastructure removed, shall not vote, and shall not be counted as a PMC Constituent for the purposes of quorum or of calculating any majority under ARTICLE 4.
+
+   1. A dormant PMC Member may revive their status by notifying the Project Leader in writing within three (3) calendar months of the start of dormancy.
+      Upon such notice, their access rights and voting rights shall be restored.
+
+   1. If the dormant PMC Member does not revive their status within that period, the Project Management Committee shall take a formal decision to remove them as a PMC Member.
+
+1. The Project Management Committee may remove a PMC Member for cause, including but not limited to violation of the Code of Conduct of the Project, the P&P, or the policies of the Project, or misuse of the access rights granted to them.
+   The following process applies.
+
+   1. Any PMC Constituent may propose the removal to the Project Leader, or, where the PMC Member subject to the proposal is the Project Leader, to the Chair of the TGC.
+
+   1. The PMC Member subject to the proposal shall be given written notice of the proposal and the grounds for it at the same time as the notice of meeting required by ARTICLE 4.11, and shall be given the opportunity to respond in writing and at the meeting.
+
+   1. The PMC Member subject to the proposal shall not vote on the decision, and shall not be counted as a PMC Constituent for the purposes of quorum or of calculating any majority for that decision.
+
+   1. The removal shall take effect upon approval by the TGC, as required by the P&P.
+
+   1. Where the Project Leader, or the Chair of the TGC, considers there to be an immediate risk to the Project, they may suspend the access rights of the PMC Member pending the decision.
+
+1. Upon a person ceasing to be a PMC Member for any reason:
+
+   1. all access rights granted to them as a PMC Member shall be removed, except those they retain as a Committer, if any;
+
+   1. they shall be listed as a past PMC Member in accordance with ARTICLE 2.3; and
+
+   1. they may again achieve the status of PMC Member through the process in ARTICLE 6.1.
 
 ### ARTICLE 7. Committer
 
